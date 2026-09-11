@@ -8,6 +8,6 @@ Using the [Kattis](https://open.kattis.com) judging platform, develop solutions 
 5. [Sibice](https://open.kattis.com/problems/sibice)
 6. [Batter Up](https://open.kattis.com/problems/batterup)
 7. [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)
-8. [Pot](https://open.kattis.com/problems/pot))
+8. [Pot](https://open.kattis.com/problems/pot)
 9. [Missing Numbers](https://open.kattis.com/problems/missingnumbers)
 10. [Speed Limit](https://open.kattis.com/problems/speedlimit)
